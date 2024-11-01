@@ -1,0 +1,1660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AliExpress Woommcerce Sincronizador 1.0.5\n"
+"POT-Creation-Date: 2022-05-10 16:57+0200\n"
+"PO-Revision-Date: 2022-05-10 16:57+0200\n"
+"Last-Translator: Daniel Riera <daniel@taxapro.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_(;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/classes/class.api.php:134
+msgid "Variation Product is not available"
+msgstr "Los productos con vairiaciones no están disponibles"
+
+#: inc/classes/class.api.php:146
+msgid "Connected with SKU"
+msgstr "Conectado por SKU"
+
+#: inc/classes/class.api.php:617 inc/classes/class.cron.api.php:349
+#: inc/classes/class.cron.api.php:473
+msgid "Category Aliexpress is not declared"
+msgstr "Categoría AliExpress no está declarada"
+
+#: inc/classes/class.api.php:618
+msgid ""
+"An error ocurred with AliExpress category, see more information on log error."
+msgstr ""
+"Ha ocurrido un error con la categoría de AliExpress, puede obtener más "
+"información en el historial de errores."
+
+#: inc/classes/class.api.php:678
+msgid "Error Register JOB"
+msgstr "Error al registrar el trabajo, contacte con soporte"
+
+#: inc/classes/class.attributes.aliexpress.php:45
+#: inc/classes/class.featured.aliexpress.php:54
+msgid "General"
+msgstr "General"
+
+#: inc/classes/class.attributes.aliexpress.php:49
+#: inc/classes/class.featured.aliexpress.php:58 views/general-options.php:288
+msgid "Custom"
+msgstr "Personalizado"
+
+#: inc/classes/class.attributes.aliexpress.php:131
+msgid "Choose Attribute"
+msgstr "Elija un Atributo"
+
+#: inc/classes/class.attributes.aliexpress.php:136
+msgid "Replace AliExpress value with a custom value"
+msgstr "Reemplazar el valor de AliExpress por uno personalizado"
+
+#: inc/classes/class.attributes.aliexpress.php:137
+#: inc/classes/class.featured.aliexpress.php:359
+msgid "Use Alias"
+msgstr "Usar Alias"
+
+#: inc/classes/class.attributes.aliexpress.php:139
+msgid ""
+"The Alias by which this attribute will be replaced in AliExpress, (Use "
+"Alias) must be marked"
+msgstr ""
+"Este es el alias para el atributo de AliExpress que se reemplazará, (Usar "
+"Alias) debe estar marcado"
+
+#: inc/classes/class.attributes.aliexpress.php:140
+msgid "Alias"
+msgstr "Alias"
+
+#: inc/classes/class.attributes.aliexpress.php:205
+msgid "Choose Term"
+msgstr "Elija un Término"
+
+#: inc/classes/class.attributes.aliexpress.php:224
+msgid "Save Attributes Mapping"
+msgstr "Guardar Mapeo de Atributos"
+
+#: inc/classes/class.category.aliexpress.php:31
+#: inc/classes/class.category.aliexpress.php:161
+msgid "WooCommerce Category"
+msgstr "Categoría WooCommerce"
+
+#: inc/classes/class.category.aliexpress.php:32
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/classes/class.category.aliexpress.php:48
+msgid "Save Categories Description"
+msgstr "Guardar Descripción de Categorías"
+
+#: inc/classes/class.category.aliexpress.php:67
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/classes/class.category.aliexpress.php:153 views/meta-box-product.php:4
+msgid "Your token is no set, please contact with support service."
+msgstr "El token no está veteado, por favor contacte con soporte."
+
+#: inc/classes/class.category.aliexpress.php:162
+msgid "AliExpress Category"
+msgstr "Categoría de AliExpress"
+
+#: inc/classes/class.category.aliexpress.php:164
+msgid "Add a percentage to the price when uploading products to AliExpress"
+msgstr ""
+"Añade un porcentaje al precio del producto cuando se publicado en AliExpress"
+
+#: inc/classes/class.category.aliexpress.php:165
+msgid "Add Percentage to Price"
+msgstr "Añadir porcentaje al precio"
+
+#: inc/classes/class.category.aliexpress.php:167
+msgid "Add a fixed amount the price when uploading products to AliExpress"
+msgstr ""
+"Añade una cantidad fija al precio del producto cuando se publicado en "
+"AliExpress"
+
+#: inc/classes/class.category.aliexpress.php:168
+msgid "Add fixed amount"
+msgstr "Añadir Cantidad Fija"
+
+#: inc/classes/class.category.aliexpress.php:169
+msgid "Size Product default"
+msgstr "Tamaño de los productos por defecto"
+
+#: inc/classes/class.category.aliexpress.php:170
+msgid "Width (cm), Length (cm), Height (cm), Weight (kg)"
+msgstr "Ancho (cm), Largo (cm), Alto (cm), Peso (kg)"
+
+#: inc/classes/class.category.aliexpress.php:172
+msgid "Preparation Days"
+msgstr "Días de Preparación"
+
+#: inc/classes/class.category.aliexpress.php:173
+msgid "Default Group"
+msgstr "Grupo por defecto"
+
+#: inc/classes/class.category.aliexpress.php:174
+msgid "Shipping template"
+msgstr "Plantilla de envío"
+
+#: inc/classes/class.category.aliexpress.php:176
+msgid "Keywords for Title Product"
+msgstr "Palabras clave para el título del producto"
+
+#: inc/classes/class.category.aliexpress.php:177
+msgid "Keywords"
+msgstr "Palabras clave"
+
+#: inc/classes/class.category.aliexpress.php:179
+msgid "Prepend Brand name to title product"
+msgstr "Añade al principio la marca del producto en el título"
+
+#: inc/classes/class.category.aliexpress.php:180
+msgid "Add Brand"
+msgstr "Añadir Marca"
+
+#: inc/classes/class.category.aliexpress.php:181
+msgid "AE Category"
+msgstr "Categoría AE"
+
+#: inc/classes/class.category.aliexpress.php:182
+#: inc/classes/class.category.aliexpress.php:265
+msgid "Unlink"
+msgstr "Desconectar"
+
+#: inc/classes/class.category.aliexpress.php:199
+msgid "Suggest Category"
+msgstr "Sugerir Categoría"
+
+#: inc/classes/class.category.aliexpress.php:222
+msgid "Width"
+msgstr "Ancho"
+
+#: inc/classes/class.category.aliexpress.php:223
+msgid "Length"
+msgstr "Largo"
+
+#: inc/classes/class.category.aliexpress.php:224
+msgid "Height"
+msgstr "Alto"
+
+#: inc/classes/class.category.aliexpress.php:225
+msgid "Weight"
+msgstr "Peso"
+
+#: inc/classes/class.category.aliexpress.php:262
+msgid "Select"
+msgstr "Selecciona"
+
+#: inc/classes/class.category.aliexpress.php:272
+msgid "Save Categories"
+msgstr "Guardar Categorías"
+
+#: inc/classes/class.featured.aliexpress.php:130
+msgid "This category have required features"
+msgstr "Esta categoría tiene características obligatorias"
+
+#: inc/classes/class.featured.aliexpress.php:132
+msgid "No Default"
+msgstr "Ninguna"
+
+#: inc/classes/class.featured.aliexpress.php:183
+msgid "No features required"
+msgstr "No se han encontrado características obligatorias"
+
+#: inc/classes/class.featured.aliexpress.php:255
+msgid "Choose Feature"
+msgstr "Elija Característica"
+
+#: inc/classes/class.featured.aliexpress.php:354 views/general-options.php:240
+#: views/meta-box-order-shipping-carrier.php:13
+msgid "Choose Option"
+msgstr "Elija una Opción"
+
+#: inc/classes/class.featured.aliexpress.php:386
+msgid "Save Features Mapping"
+msgstr "Guardar Mapeo de Características"
+
+#: inc/classes/class.job.aliexpress.php:141 views/general-options.php:1000
+#: views/general-options.php:1001 views/general-options.php:1002
+#: views/general-options.php:1003 views/general-options.php:1004
+msgid "Yes"
+msgstr "Si"
+
+#: inc/classes/class.job.aliexpress.php:144
+msgid "With Errors"
+msgstr "Con Errores"
+
+#: inc/classes/class.job.aliexpress.php:147
+msgid "Processing"
+msgstr "Procesando"
+
+#: inc/classes/class.job.aliexpress.php:150 views/general-options.php:1000
+#: views/general-options.php:1001 views/general-options.php:1002
+#: views/general-options.php:1003 views/general-options.php:1004
+msgid "No"
+msgstr "No"
+
+#: inc/classes/class.order.aliexpress.php:78
+msgid "Shipping Cost"
+msgstr "Coste de Envío"
+
+#: inc/classes/class.product.aliexpress.php:92
+msgid "(CRON PRICE-STOCK) Category Aliexpress is not declared"
+msgstr "(CRON Precio-Stock) Categoría AliExpress no está declarada"
+
+#: inc/classes/class.product.aliexpress.php:102
+msgid "(CRON PRICE-STOCK) Error getting product data, contact support"
+msgstr ""
+"(CRON Precio-Stock) Error al obtener los datos del producto, contacte con "
+"soporte"
+
+#: inc/classes/class.product.aliexpress.php:239
+#: inc/classes/class.product.aliexpress.php:847
+msgid "Some or all product variations has not price"
+msgstr "Alguna o todas las variaciones del producto no tienen precio de venta"
+
+#: inc/classes/class.product.aliexpress.php:322
+msgid "(CRON PRICE-STOCK) The product does not have a SKU"
+msgstr "(CRON Precio-Stock) El producto no tiene precio de venta"
+
+#: inc/classes/class.product.aliexpress.php:330
+msgid "(CRON PRICE-STOCK) The product does not have a sale price"
+msgstr "(CRON Precio-Stock) El producto no tiene precio de venta"
+
+#: inc/classes/class.product.aliexpress.php:394
+msgid "Other related products"
+msgstr "Otros productos relacionados"
+
+#: inc/classes/class.product.aliexpress.php:433
+msgid "More Info"
+msgstr "Más información"
+
+#: inc/classes/class.product.aliexpress.php:655
+msgid "The product does not have a sale price"
+msgstr "El producto no tiene precio de venta"
+
+#: inc/classes/class.product.aliexpress.php:660
+msgid ""
+"The price is not in the allowed range, please set another range to allow "
+"this price."
+msgstr ""
+"El precio no se encuentra en el rango de precio permitido, por favor, "
+"establezca otro rango para permitir este producto."
+
+#: inc/classes/class.product.aliexpress.php:692
+msgid "The product does not have a SKU"
+msgstr "El producto no tiene SKU"
+
+#: inc/classes/class.product.aliexpress.php:759
+msgid ""
+"The product has no images, at least one image is required to upload to "
+"AliExpress"
+msgstr "El producto no tiene imágenes, AliExpress necesita al menos una imagen"
+
+#: inc/classes/class.product.aliexpress.php:872
+msgid ""
+"The product has variations, but some or all variations have no reference "
+"(SKU)"
+msgstr ""
+"El producto tiene variaciones, pero alguna o todas no tienen referencia (SKU)"
+
+#: inc/classes/class.product.aliexpress.php:892
+msgid "Variations do not have SKU, it is not possible to upload the product"
+msgstr "Las variaciones no tienen SKU, no es posible subir el producto"
+
+#: inc/classes/class.product.aliexpress.php:898
+#, php-format
+msgid ""
+"The product has empty attributes, the upload is not allowed, for more "
+"information <a href=\"%s\">click here</a>"
+msgstr ""
+"El producto tiene atributos vacios, la subida no está permitida, para más "
+"información <a href=\"%s\">pincha aquí</a>"
+
+#: inc/classes/class.product.aliexpress.php:1002
+#: inc/classes/class.product.aliexpress.php:1033
+#, php-format
+msgid ""
+"Job AliExpress products with errors, for more information check <a href=\"%s"
+"\">the log here</a>."
+msgstr ""
+"Trabajo con errores, para más información vea <a href=\"%s\">el log de "
+"errores aquí</a>."
+
+#: views/general-options.php:5
+msgid "AliExpress Options"
+msgstr "Opciones de AliExpress"
+
+#: views/general-options.php:6
+msgid ""
+"AliExpress Official Plugin for WooCommerce, synchronization of products and "
+"orders with AliExpress."
+msgstr ""
+"Plugin Oficial de AliExpress para WooCommerce, sincronización de productos y "
+"pedidos con AliExpress."
+
+#: views/general-options.php:7
+msgid ""
+"<strong>Need help?</strong> If you have any questions please send us a "
+"message"
+msgstr ""
+"<strong>¿Necesitas Ayuda?</strong> Si tienes alguna duda por favor envíanos "
+"un mensaje"
+
+#: views/general-options.php:7
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+#: views/general-options.php:8
+msgid "View the documentation"
+msgstr "Ver la documentación"
+
+#: views/general-options.php:33
+msgid "Error: This is not a seller account, "
+msgstr ""
+"Error: La cuenta con la que ha iniciado sesión no es una cuenta de vendedor "
+"de AliExpress "
+
+#: views/general-options.php:34 views/login.php:7 views/renewLogin.php:7
+#, php-format
+msgid ""
+"<strong>IMPORTANT NOTE:</strong> to set up AliExpress for WooCommerce it is "
+"essential that you have a merchant account on AliExpress. <a href=\"%s\" "
+"target=\"_blank\">Don't have a merchant account? Click here.</a>"
+msgstr ""
+"<strong>NOTA IMPORTANTE:</strong>Para poder configurar AliExpress para "
+"Woocommerce es imprescindible que disponga de una cuenta de vendedor en "
+"AliExpress. <a href=\"%s\" target=\"_blank\">¿No tienes cuenta de vendedor? "
+"Clic aquí</a>"
+
+#: views/general-options.php:35
+msgid "Login with other account"
+msgstr "Iniciar sesión con otra cuenta"
+
+#: views/general-options.php:51
+msgid "The session started correctly, now you can configure AliExpress."
+msgstr ""
+"La sesión se ha iniciado correctamente, ahora puede configurar AliExpress."
+
+#: views/general-options.php:62
+msgid "General Options"
+msgstr "Opciones Generales"
+
+#: views/general-options.php:63
+msgid "Categories"
+msgstr "Categorías"
+
+#: views/general-options.php:64
+msgid "Attributes"
+msgstr "Atributos"
+
+#: views/general-options.php:65
+msgid "Features"
+msgstr "Características"
+
+#: views/general-options.php:66 views/general-options.php:510
+msgid "Country Prices"
+msgstr "Precios por País"
+
+#: views/general-options.php:67 woo-aliexpress.php:593
+msgid "Manage Categories"
+msgstr "Manejo de Categorías"
+
+#: views/general-options.php:68 views/general-options.php:745
+#: woo-aliexpress.php:594
+msgid "Orders"
+msgstr "Pedidos"
+
+#: views/general-options.php:69 views/general-options.php:572
+#: woo-aliexpress.php:595
+msgid "Jobs"
+msgstr "Trabajos"
+
+#: views/general-options.php:70 views/general-options.php:694
+#: woo-aliexpress.php:596
+msgid "Error Log"
+msgstr "Historial de Errores"
+
+#: views/general-options.php:71
+msgid "System Status"
+msgstr "Estado del Sistema"
+
+#: views/general-options.php:72
+msgid "Maping Products"
+msgstr "Mapear Productos"
+
+#: views/general-options.php:207
+msgid "Stock for products without manage stock"
+msgstr "Stock para productos sin gestión de stock"
+
+#: views/general-options.php:209
+msgid ""
+"AliExpress need stock for products and variations, when your product not "
+"have manage stock, ¿What stock send to AliExpress?, default 100"
+msgstr ""
+"AliExpress necesita una cantidad de stock para productos y variaciones, "
+"cuando el producto no tiene stock, ¿Qué stock enviamos a AliExpress?, por "
+"defecto 100"
+
+#: views/general-options.php:214 views/meta-box-product.php:78
+msgid "Shipping Template"
+msgstr "Plantilla de Envio"
+
+#: views/general-options.php:216
+msgid ""
+"Shipping templates are configured in your AliExpress seller account, you can "
+"access here to configure these templates"
+msgstr ""
+"Las plantillas de envío se configuran en su cuenta de vendedor en "
+"AliExpress, puede acceder aquí para configurar estas plantillas"
+
+#: views/general-options.php:244
+#, php-format
+msgid ""
+"No shipping templates availables, <a href=\"%s\" target=\"_blank\">set your "
+"shipping template here</a>"
+msgstr ""
+"No se han encontrado plantillas de envío disponibles, <a href=\"%s\" target="
+"\"_blank\">configure su plantilla de envío aquí</a>"
+
+#: views/general-options.php:248
+msgid "Click here to configure Shipping Templates on AliExpress"
+msgstr "Haga clic aquí para configurar sus plantillas de envío en AliExpress"
+
+#: views/general-options.php:252
+msgid "Default order status"
+msgstr "Estado por defecto del Pedido"
+
+#: views/general-options.php:272
+msgid "Use Product ID if the SKU is empty"
+msgstr "Usar el id del producto si el SKU está vacío"
+
+#: views/general-options.php:274
+msgid ""
+"ATENTION: With this option, when a SKU product is empty this copy product id "
+"as SKU and save the product."
+msgstr ""
+"ATENCIÓN: Con esta opción, cuando un producto no tiene SKU se usará su id y "
+"será guardado para futuros envíos."
+
+#: views/general-options.php:276
+msgid "Activate SKU by ID"
+msgstr "Activar SKU por ID"
+
+#: views/general-options.php:277 views/general-options.php:349
+#: views/general-options.php:367
+msgid ""
+"Advanced use, contact support for more information, use it if you know "
+"exactly what you are doing"
+msgstr ""
+"Uso avanzado, contacte con soporte para más información, use esto si sabe "
+"exactamente que está haciendo"
+
+#: views/general-options.php:281
+msgid "Use EAN"
+msgstr "Usar EAN"
+
+#: views/general-options.php:287
+msgid "Use AliExpress field"
+msgstr "Campo de AliExpress"
+
+#: views/general-options.php:293
+msgid "Custom Field EAN"
+msgstr "Campo personalizado"
+
+#: views/general-options.php:299
+msgid ""
+"If you want use SKU like EAN Code, use _sku (Meta key value), or other meta "
+"key used by another plugin"
+msgstr ""
+"Si usas el SKU como EAN, escriba _sku (Valor de los metadatos), o cualquier "
+"otra key si usa algún otro complemento"
+
+#: views/general-options.php:303
+msgid "Products Cron"
+msgstr "Cron de Productos"
+
+#: views/general-options.php:305
+msgid ""
+"You can configure a CRON with this URL, this will make regular product "
+"updates on AliExpress, this CRON completely overwrites the product"
+msgstr ""
+"Usted puede configurar un CRON con esta url, esto actualizará el producto en "
+"AliExpress, este CRON sobreescribe completamente el producto"
+
+#: views/general-options.php:309
+msgid "Orders Cron"
+msgstr "Cron de Pedidos"
+
+#: views/general-options.php:311
+msgid "This CRON downloads AliExpress orders to your store"
+msgstr "Este CRON descarga pedidos desde AliExpress a su tienda"
+
+#: views/general-options.php:315
+msgid "Price and Stock Cron"
+msgstr "Cron de Precios y Stock"
+
+#: views/general-options.php:317
+msgid ""
+"If your products do not change often or you do not want to overwrite custom "
+"descriptions that you have made in AliExpress, you can only update the Stock "
+"and Price of the products"
+msgstr ""
+"Si sus productos no cambian a menudo o no quiere sobreescribir completamente "
+"el producto con descripciones personalizadas en AliExpress, puede actualizar "
+"únicamente el stock y precio con este CRON"
+
+#: views/general-options.php:322
+msgid "Price Cron"
+msgstr "Cron de Precio"
+
+#: views/general-options.php:324
+msgid ""
+"If your products do not change often or you do not want to overwrite custom "
+"descriptions that you have made in AliExpress, you can only update the Price "
+"of the products"
+msgstr ""
+"Si sus productos no cambian a menudo o no quiere sobreescribir completamente "
+"el producto con descripciones personalizadas en AliExpress, puede actualizar "
+"únicamente el precio con este CRON"
+
+#: views/general-options.php:329
+msgid "Stock Cron"
+msgstr "Cron de Stock"
+
+#: views/general-options.php:331
+msgid ""
+"If your products do not change often or you do not want to overwrite custom "
+"descriptions that you have made in AliExpress, you can only update the Stock "
+"of the products"
+msgstr ""
+"Si sus productos no cambian a menudo o no quiere sobreescribir completamente "
+"el producto con descripciones personalizadas en AliExpress, puede actualizar "
+"únicamente el stock con este CRON"
+
+#: views/general-options.php:336
+msgid "You can use the free service"
+msgstr "Puede usar el servicio gratuito"
+
+#: views/general-options.php:342
+msgid "Avanced Options"
+msgstr "Opciones Avanzadas"
+
+#: views/general-options.php:345
+msgid "Default Shipping Method"
+msgstr "Método de Envío por defecto"
+
+#: views/general-options.php:347
+msgid ""
+"Normally used for shipping companies, establish a shipping method so that "
+"the shipping plugins can read orders from AliExpress"
+msgstr ""
+"Normalmente usado para las empresas de envío, establece un método de envío "
+"que usará para que los plugins de los transportistas puedan leer pedidos de "
+"AliExpress"
+
+#: views/general-options.php:353
+msgid "Exclude by min and max price"
+msgstr "Exclude por precio mínimo y máximo"
+
+#: views/general-options.php:356
+msgid "and"
+msgstr "y"
+
+#: views/general-options.php:358
+msgid "Products between this prices are exclude to upload products."
+msgstr "Productos fuera de este rango no serán subidos."
+
+#: views/general-options.php:362
+msgid "Variations Explosion"
+msgstr "Explosión de variaciones"
+
+#: views/general-options.php:364
+msgid "Only apply to upload new products"
+msgstr "Solo se aplican a nuevas subidas"
+
+#: views/general-options.php:366
+msgid "Use explosion variations"
+msgstr "Usar explosión de variaciones"
+
+#: views/general-options.php:371
+msgid "Only update stock and price"
+msgstr "Solo actualizar stock y precio"
+
+#: views/general-options.php:373
+msgid "If this option is enabled, only update price and stock."
+msgstr "Si esta opción está activa, solo actualizará precio y stock."
+
+#: views/general-options.php:375
+msgid "Use Only Stock and Price"
+msgstr "Usar solo stock y precio"
+
+#: views/general-options.php:379
+msgid "Categories Description Options"
+msgstr "Opciones Descripción Categorías"
+
+#: views/general-options.php:385
+msgid "Replace"
+msgstr "Reemplazar"
+
+#: views/general-options.php:386
+msgid "Before"
+msgstr "Antes"
+
+#: views/general-options.php:387
+msgid "After"
+msgstr "Después"
+
+#: views/general-options.php:392
+msgid "Size of Images"
+msgstr "Tamaño de las Imágenes"
+
+#: views/general-options.php:410
+msgid "Create Correlative SKUs"
+msgstr "Crear SKU correlativos"
+
+#: views/general-options.php:412 views/general-options.php:420
+msgid ""
+"When a product combination some of the attributes are selected as Any... "
+"AliExpress will not send AliExpress this product by default."
+msgstr ""
+"Cuando un producto tiene alguna combinación con el atributo como \"Cualquier "
+"…\" no es posible enviar a AliExpress este producto por defecto."
+
+#: views/general-options.php:414
+msgid "Activate correlative SKU creation"
+msgstr "Activar creación de SKU correlativos"
+
+#: views/general-options.php:418
+msgid "Upload Products with empty attributes"
+msgstr "Subir productos con atributos vacios"
+
+#: views/general-options.php:423
+msgid "Enable synchronization of empty variations"
+msgstr "Activar sincronización de variaciones vacías"
+
+#: views/general-options.php:427
+msgid "Allow duplicate attributes"
+msgstr "Permitir atributos duplicados"
+
+#: views/general-options.php:430
+msgid ""
+"When this option is active, duplicate attributes will be allowed. NOTE: They "
+"are allowed as long as they are not present in the same product, if a "
+"product is uploaded with duplicate attributes it will be rejected"
+msgstr ""
+"Cuando esta opción está activa, se permitirán los atributos duplicados, "
+"NOTA: Se permiten siempre y cuando no estén presentes en el mismo producto, "
+"si un producto es subido con atributos duplicados este será rechazado"
+
+#: views/general-options.php:432
+msgid "Enable duplicate attributes"
+msgstr "Activar atributos duplicados"
+
+#: views/general-options.php:436
+msgid "Token Cron"
+msgstr "Token Cron"
+
+#: views/general-options.php:438
+msgid ""
+"This is the key to configure the CRON in your hosting, your hosting provider "
+"can help you configure this service."
+msgstr ""
+"Esta es la clave para configurar su CRON en su hosting, su hosting puede "
+"ayudarlo a configurar este servicio."
+
+#: views/general-options.php:440
+msgid "Regenerate Token"
+msgstr "Regenerar Token"
+
+#: views/general-options.php:443
+msgid "Add Related Products block to AliExpress"
+msgstr "Añadir un bloque con productos relacionados en AliExpress"
+
+#: views/general-options.php:445
+msgid "Add a related product block on AliExpress"
+msgstr ""
+"Añade un bloque de productos relacionados en AliExpress, con los productos "
+"de ventas cruzadas de su tienda"
+
+#: views/general-options.php:447
+msgid "Enable"
+msgstr "Habilitar"
+
+#: views/general-options.php:452
+msgid "Related Product Block Links"
+msgstr "Enlaces del bloque de productos relacionados"
+
+#: views/general-options.php:454
+msgid "Where do you have to take the links of the related product block?"
+msgstr ""
+"¿Hacia donde deben llevar los enlaces del bloque de productos relacionados?"
+
+#: views/general-options.php:460 woo-aliexpress.php:416
+msgid "AliExpress Products"
+msgstr "Productos AliExpress"
+
+#: views/general-options.php:461
+msgid "WooCommerce Products"
+msgstr "Productos de Woocommerce"
+
+#: views/general-options.php:466
+msgid "Image System"
+msgstr "Sistema de Imagen"
+
+#: views/general-options.php:468
+msgid "Avanced use"
+msgstr "Uso Avanzado"
+
+#: views/general-options.php:474
+msgid "Direct"
+msgstr "Directo"
+
+#: views/general-options.php:475
+msgid "Alternative URL"
+msgstr "URL Alternativa"
+
+#: views/general-options.php:481
+msgid "Debug Mode"
+msgstr "Modo Debug"
+
+#: views/general-options.php:483
+msgid ""
+"This option disables the upload of products to AliExpress, only for "
+"debugging jobs"
+msgstr ""
+"Esta opción deshabilita la subida de productos a AliExpress, únicamente se "
+"usa en trabajos de desarrollo o depuración"
+
+#: views/general-options.php:485
+msgid "Enable debug mode"
+msgstr "Habilitar el Módo Debug"
+
+#: views/general-options.php:490
+msgid "Save Configuration"
+msgstr "Guardar Configuración"
+
+#: views/general-options.php:495
+msgid "Categories Mapping"
+msgstr "Mapeo de Categorías"
+
+#: views/general-options.php:496
+msgid ""
+"Change the default descriptions of the products by categories (Only for "
+"AliExpress), click here"
+msgstr ""
+"Cambia la descripción por defecto de todos los productos de esa categoría al "
+"subir a AliExpress, click aquí"
+
+#: views/general-options.php:503
+msgid "Add category to mapping"
+msgstr "Añadir categoría al mapeo"
+
+#: views/general-options.php:504
+msgid "Add"
+msgstr "Añadir"
+
+#: views/general-options.php:511
+msgid ""
+"If you do not want to change the price in the country, leave the field empty."
+msgstr ""
+"Si usted no quiere cambiar el precio en un país, deje el campo en blanco."
+
+#: views/general-options.php:513
+msgid ""
+"The minimum possible value is 70, if you want to add 5% to the base price "
+"you must set the percentage to 105, if for example you want to decrease the "
+"price by 2% you must set the percentage to 98"
+msgstr ""
+"El valor mínimo posible es de 70, si quiere agregar un 5% al precio base "
+"debe establecer el valor en 105, si por ejemplo quiere bajar el precio un "
+"2%, establézcalo en 98"
+
+#: views/general-options.php:519
+msgid "Categories Description"
+msgstr "Descripción por Categorías"
+
+#: views/general-options.php:520
+msgid ""
+"Overwrite the description of the product when it is uploaded to AliExpress, "
+"if it is different from empty it will be used when uploading a product"
+msgstr ""
+"Sobrescriba la descripción del producto cuando se cargue en AliExpress, si "
+"es diferente de vacío se usará al cargar un producto"
+
+#: views/general-options.php:521
+msgid ""
+"You can use [AE_PRODUCT_NAME] for product name or [AE_PRODUCT_PRICE] for "
+"product price."
+msgstr ""
+"Puede usar [AE_PRODUCT_NAME] para el nombre del producto o "
+"[AE_PRODUCT_PRICE] para el precio."
+
+#: views/general-options.php:527
+msgid "¿You need support?"
+msgstr "¿Necesita Ayuda?"
+
+#: views/general-options.php:538 views/general-options.php:552
+msgid "Select an Category"
+msgstr "Selecciona una Categoría"
+
+#: views/general-options.php:539
+msgid "Select an category to attributes mapping"
+msgstr "Selecciona una categoría para empezar a mapear atributos"
+
+#: views/general-options.php:542
+#, php-format
+msgid "Attributes Mapping from Category %s"
+msgstr "Mapeo de Atributos para la Categoría %s"
+
+#: views/general-options.php:553
+msgid "Select an category to features mapping"
+msgstr "Selecciona una categoría para mapear características"
+
+#: views/general-options.php:556
+#, php-format
+msgid "Features Mapping from Category %s"
+msgstr "Mapeo de Características para la Categoría %s"
+
+#: views/general-options.php:577 views/general-options.php:589
+#: views/general-options.php:722 views/general-options.php:771
+#: views/general-options.php:809
+msgid "Date"
+msgstr "Fecha"
+
+#: views/general-options.php:581 views/general-options.php:782
+msgid "Filter"
+msgstr "Filtrar"
+
+#: views/general-options.php:584
+msgid ""
+"When send products to AliExpress, is created a job that contains all "
+"products that need update, you can click on job to update job status"
+msgstr ""
+"Cuando se envían productos a AliExpress, se crea un trabajo, puede hacer "
+"clic en un trabajo para actualizar su estado"
+
+#: views/general-options.php:585
+msgid "Refresh all status jobs"
+msgstr "Refrescar todos los trabajos"
+
+#: views/general-options.php:590
+msgid "Last Check"
+msgstr "Última Comprobación"
+
+#: views/general-options.php:591
+msgid "Total Products"
+msgstr "Productos Totales"
+
+#: views/general-options.php:592
+msgid "Products Success"
+msgstr "Productos Completados"
+
+#: views/general-options.php:593
+msgid "Finalized"
+msgstr "Finalizado"
+
+#: views/general-options.php:615 views/general-options.php:695
+msgid "Plain Error"
+msgstr "Detalles de Error"
+
+#: views/general-options.php:619
+msgid "JOB ID"
+msgstr "ID del Trabajo"
+
+#: views/general-options.php:620
+msgid "DATA"
+msgstr "Datos"
+
+#: views/general-options.php:700
+msgid "Generic"
+msgstr "Genérico"
+
+#: views/general-options.php:705
+msgid "Product"
+msgstr "Producto"
+
+#: views/general-options.php:707
+msgid "View Product"
+msgstr "Ver Producto"
+
+#: views/general-options.php:710
+msgid "Order"
+msgstr "Pedido"
+
+#: views/general-options.php:712 views/general-options.php:824
+msgid "View Order"
+msgstr "Ver Pedido"
+
+#: views/general-options.php:715
+msgid "Category"
+msgstr "Categoría"
+
+#: views/general-options.php:717
+msgid "Mapping Category"
+msgstr "Mapear Categoría"
+
+#: views/general-options.php:723
+msgid "Message"
+msgstr "Mensaje"
+
+#: views/general-options.php:724
+msgid "Type"
+msgstr "Tipo"
+
+#: views/general-options.php:725 views/general-options.php:812
+#: views/general-options.php:1068
+msgid "Options"
+msgstr "Opciones"
+
+#: views/general-options.php:776 views/general-options.php:811
+msgid "Order Status"
+msgstr "Estado del Pedido"
+
+#: views/general-options.php:778
+msgid "All Status"
+msgstr "Todos los Estados"
+
+#: views/general-options.php:803
+msgid "No orders"
+msgstr "No se han encontrado pedidos"
+
+#: views/general-options.php:808
+msgid "# Order"
+msgstr "# Pedido"
+
+#: views/general-options.php:810
+msgid "Customer"
+msgstr "Cliente"
+
+#: views/general-options.php:827
+msgid "Get Order"
+msgstr "Recibir Pedido"
+
+#: views/general-options.php:837
+msgid "Get DEBUG"
+msgstr "Obtener Debug"
+
+#: views/general-options.php:854
+msgid "License AliExpress WooCommerce Sync"
+msgstr "Licencia de AliExpress WooCommerce Sync"
+
+#: views/general-options.php:856
+#, php-format
+msgid "License Date Expiration: %s"
+msgstr "Fecha de Expiración de la licencia: %s"
+
+#: views/general-options.php:857
+#, php-format
+msgid "License Code: %s"
+msgstr "Código de Licencia: %s"
+
+#: views/general-options.php:876
+msgid "AliExpress Carrier"
+msgstr "Transportista de AliExpress"
+
+#: views/general-options.php:877
+msgid "Shipping ID"
+msgstr "ID de Envío"
+
+#: views/general-options.php:886
+msgid "Save Carriers"
+msgstr "Guardar Transportistas"
+
+#: views/general-options.php:894
+msgid ""
+"Make sure that the category that you are going to send to AliExpress is "
+"correctly mapped and all its attributes correctly configured, otherwise the "
+"upload may fail."
+msgstr ""
+"Asegúrese de que la categoría que va a enviar a AliExpress esté "
+"correctamente mapeada y todos sus atributos correctamente configurados, de "
+"lo contrario la subida puede fallar."
+
+#: views/general-options.php:898 woo-aliexpress.php:1045
+msgid "Upload"
+msgstr "Subir"
+
+#: views/general-options.php:901
+msgid "Delete AliExpress Products"
+msgstr "Borrar productos en AliExpress"
+
+#: views/general-options.php:902
+msgid "Enable AliExpress Products"
+msgstr "Habilitar productos en AliExpress"
+
+#: views/general-options.php:903
+msgid "Disable AliExpress Products"
+msgstr "Deshabilitar productos en AliExpress"
+
+#: views/general-options.php:915
+msgid "You do not have permissions to do that."
+msgstr "No tienes suficientes permisos para hacer esto."
+
+#: views/general-options.php:922
+#, php-format
+msgid "%s products have been unlocked"
+msgstr "%s productos han sido desbloqueados"
+
+#: views/general-options.php:965
+#, php-format
+msgid "Success change %s products default category"
+msgstr "La categoría de %s productos ha cambiado correctamente"
+
+#: views/general-options.php:969
+msgid "Error change category default or no exist products"
+msgstr "Error al cambiar la categoría por defecto o no existe"
+
+#: views/general-options.php:991
+msgid "Check AliExpress Tables"
+msgstr "Comprobación de Tablas para AliExpress"
+
+#: views/general-options.php:994
+msgid "Jobs Table"
+msgstr "Tabla de Trabajos"
+
+#: views/general-options.php:995
+msgid "Default Table"
+msgstr "Tabla por defecto"
+
+#: views/general-options.php:996
+msgid "Attributes Table"
+msgstr "Tabla de Atributos"
+
+#: views/general-options.php:997
+msgid "Features Table"
+msgstr "Tabla de Características"
+
+#: views/general-options.php:998
+msgid "Products Error Table"
+msgstr "Tabla de Errores de productos"
+
+#: views/general-options.php:1000 views/general-options.php:1001
+#: views/general-options.php:1002 views/general-options.php:1003
+#: views/general-options.php:1004
+msgid "records"
+msgstr "registros"
+
+#: views/general-options.php:1007
+msgid "Actions Maintenance"
+msgstr "Acciones de Matenimiento"
+
+#: views/general-options.php:1020
+msgid "Delete Jobs on Products"
+msgstr "Borrar Trabajos pendientes en Productos"
+
+#: views/general-options.php:1021
+msgid "You are sure delete jobs on Products?"
+msgstr ""
+"¿Está seguro/a qué quiere borrar la conexión de trabajos con productos?"
+
+#: views/general-options.php:1021 views/general-options.php:1025
+#: views/general-options.php:1029 views/general-options.php:1033
+#: views/general-options.php:1039 views/general-options.php:1043
+msgid "Process"
+msgstr "Ejecutar"
+
+#: views/general-options.php:1024
+msgid "Clean Finished or With Error Jobs"
+msgstr "Borrar todos los trabajos finalizados o con errores"
+
+#: views/general-options.php:1025
+msgid "You are sure, Clean finished or with error jobs?"
+msgstr ""
+"¿Está seguro/a qué quiere borrar los trabajos finalizados o con errores?"
+
+#: views/general-options.php:1028
+msgid "Clean Errors"
+msgstr "Limpiar Errores"
+
+#: views/general-options.php:1029
+msgid "You are sure clean error?"
+msgstr "¿Está seguro/a qué quiere borrar todos los errores?"
+
+#: views/general-options.php:1032
+msgid "Disconect AliExpress conection products"
+msgstr "Desconectar los productos locales de AliExpress"
+
+#: views/general-options.php:1033
+msgid "This action delete conection products with AliExpress"
+msgstr "Esta acción borra la conexión de los productos locales con AliExpress"
+
+#: views/general-options.php:1036
+msgid "Change AliExpress category default"
+msgstr "Cambiar categoría por defecto de AliExpress"
+
+#: views/general-options.php:1037
+msgid "Atention: This set category by default on product"
+msgstr "Atención: Esto establecerá la categoría por defecto en el producto"
+
+#: views/general-options.php:1042
+msgid "Clear ALL Data"
+msgstr "Borrar TODOS los datos"
+
+#: views/general-options.php:1043
+msgid "¡ATENTION!: You are sure CLEAR ALL DATA on AliExpress Plugin?"
+msgstr ""
+"¡ATENCIÓN!: Está seguro/a BORRAR TODOS LOS DATOS del plugin de AliExpress?"
+
+#: views/general-options.php:1048
+msgid "Orphan category Ids (have been manually disconnected)"
+msgstr "Categorías Huérfanas (Tiene productos desconectados manualmente)"
+
+#: views/general-options.php:1059
+msgid "search"
+msgstr "Buscar"
+
+#: views/general-options.php:1064
+msgid "Product ID"
+msgstr "ID del Producto"
+
+#: views/general-options.php:1065
+msgid "Online"
+msgstr "Publicados"
+
+#: views/general-options.php:1066
+msgid "AliExpress Name"
+msgstr "Nombre en AliExpress"
+
+#: views/general-options.php:1067
+msgid "Status"
+msgstr "Estado"
+
+#: views/login.php:12
+#, php-format
+msgid ""
+"Currently it has 60 days free use, then the use of the plugin will be "
+"subject to <a href=\"%s\" target=\"_blank\">our price rates</a>"
+msgstr ""
+"Actualmente dispone de 60 días de uso gratuito, posteriormente la "
+"utilización del plugin estará sujeta a <a href=\"%s\" target=\"_blank"
+"\">nuestras tarifas de precios</a>"
+
+#: views/login.php:15 views/renewLogin.php:13
+msgid "Link AliExpress Account"
+msgstr "Vincular cuenta de AliExpress"
+
+#: views/login.php:18 views/renewLogin.php:16
+msgid "Your AliExpress Email"
+msgstr "Su Email de AliExpress"
+
+#: views/login.php:19 views/renewLogin.php:17
+msgid "Enter the account to login on AliExpress"
+msgstr "Introduzca la cuenta para hacer login en AliExpress"
+
+#: views/login.php:22 views/renewLogin.php:20
+msgid "Log in / Authorize"
+msgstr "Logear / Autorizar"
+
+#: views/meta-box-description-product.php:5
+msgid ""
+"Use a custom title if you don't want to send the WooCommerce title to "
+"AliExpress"
+msgstr ""
+"Use un título personalizado si no quiere enviar el título del producto de "
+"WooCommerce a AliExpress"
+
+#: views/meta-box-description-product.php:9
+msgid ""
+"Use a custom description if you don't want to send the WooCommerce "
+"description to AliExpress"
+msgstr ""
+"Use una descripción personalizada si no quiere enviar la descripción de "
+"WooCommerce a AliExpress"
+
+#: views/meta-box-order-shipping-carrier.php:9
+msgid "Local Shipping ID"
+msgstr "ID Envío Local"
+
+#: views/meta-box-order-shipping.php:7
+msgid "Required when you mark the order as finish"
+msgstr "Obligatorio al marcar el pedido como Finalizado"
+
+#: views/meta-box-order-shipping.php:11
+msgid "Select carrier"
+msgstr "Selecciona un Transportista"
+
+#: views/meta-box-order-shipping.php:57
+msgid "Tracking Website (Required)"
+msgstr "Sitio web de seguimiento (Requerido)"
+
+#: views/meta-box-order-shipping.php:61
+msgid "Tracking Number"
+msgstr "Número de Seguimiento"
+
+#: views/meta-box-order-shipping.php:62
+msgid "Set Tracking Number"
+msgstr "Escriba el Número de Seguimiento"
+
+#: views/meta-box-order-shipping.php:71
+msgid "Order Finish AliExpress"
+msgstr "Pedido Finalizado en AliExpress"
+
+#: views/meta-box-order-shipping.php:73
+msgid "Confirm and send tracking number to AliExpress"
+msgstr "Confirmado y enviado a AliExpress el número de seguimiento"
+
+#: views/meta-box-order-shipping.php:76
+msgid "Select the products that are going to be sent"
+msgstr "Seleccione los productos que se van a enviar en este envío parcial"
+
+#: views/meta-box-product.php:29 views/meta-box-product.php:32
+msgid "Remove Job"
+msgstr "Eliminar Trabajo"
+
+#: views/meta-box-product.php:30
+msgid "Eliminates the blocking of the product generated by a job."
+msgstr "Eliminar el bloqueo del producto generado por el trabajo."
+
+#: views/meta-box-product.php:37
+msgid "Product ID on AliExpress"
+msgstr "ID del producto en AliExpress"
+
+#: views/meta-box-product.php:38 woo-aliexpress.php:1264
+msgid "Remove AliExpress Product ID"
+msgstr "Eliminar ID del Producto"
+
+#: views/meta-box-product.php:40
+msgid "View Product on AliExpress"
+msgstr "Ver producto en AliExpress"
+
+#: views/meta-box-product.php:43
+msgid "Actions"
+msgstr "Opciones"
+
+#: views/meta-box-product.php:44
+msgid "Actions for AliExpress product"
+msgstr "Acciones para productos en AliExpress"
+
+#: views/meta-box-product.php:48
+msgid "Disable Product"
+msgstr "Desactivar Producto"
+
+#: views/meta-box-product.php:50
+msgid "Activate Product"
+msgstr "Activar Producto"
+
+#: views/meta-box-product.php:52 woo-aliexpress.php:1268
+msgid "Delete Product"
+msgstr "Borrar Producto"
+
+#: views/meta-box-product.php:68 views/meta-box-product.php:73
+#: views/meta-box-product.php:115
+msgid "Choose default Category"
+msgstr "Elegir Categoria por Defecto"
+
+#: views/meta-box-product.php:69
+msgid ""
+"First select the product categories, the ones that are mapped will appear "
+"here."
+msgstr ""
+"Primero seleccione las categorías de productos, las que están mapeadas "
+"aparecerán aquí."
+
+#: views/meta-box-product.php:79
+msgid ""
+"You can override the shipping template, if you use default, AliExpress use "
+"the category shipping template, if category use default, using global."
+msgstr ""
+"Puede sobreescribir la plantilla de envío, si usa de por defecto, AliExpress "
+"usará la establecida en la categoría."
+
+#: views/meta-box-product.php:84
+msgid "Group"
+msgstr "Grupo"
+
+#: views/meta-box-product.php:91
+msgid "EAN Code"
+msgstr "Código EAN"
+
+#: views/meta-box-product.php:103 views/meta-box-product.php:106
+msgid "Explosion of variations"
+msgstr "Explosión de Variaciones"
+
+#: views/meta-box-product.php:104
+msgid ""
+"If the variations are complicated to map you can use this option to separate "
+"each variation into different products"
+msgstr ""
+"Si las variaciones son complicadas de mapear, use esta opción para productos "
+"nuevos, esto separará en varios productos cada variación"
+
+#: woo-aliexpress.php:53
+msgid "Waiting for Payment"
+msgstr "Esperando Pago"
+
+#: woo-aliexpress.php:57
+msgid "In Cancel"
+msgstr "Cancelado"
+
+#: woo-aliexpress.php:61
+msgid "Waiting Shipping"
+msgstr "Esperando Envío"
+
+#: woo-aliexpress.php:65
+msgid "Partially Delivered"
+msgstr "Enviado Parcialmente"
+
+#: woo-aliexpress.php:69
+msgid "Waiting Confirmation"
+msgstr "Esperando Confirmación"
+
+#: woo-aliexpress.php:73
+msgid "Processing Payment"
+msgstr "Procesando Pago"
+
+#: woo-aliexpress.php:77
+msgid "In Dispute"
+msgstr "En Disputa"
+
+#: woo-aliexpress.php:81
+msgid "Suspended"
+msgstr "Suspendido"
+
+#: woo-aliexpress.php:85
+msgid "Waiting for Review"
+msgstr "Esperando Revisión"
+
+#: woo-aliexpress.php:89
+msgid "Risk Control"
+msgstr "Control de Riesgo"
+
+#: woo-aliexpress.php:93
+msgid "Finished"
+msgstr "Finalizado"
+
+#: woo-aliexpress.php:238
+msgid "View Store"
+msgstr "Ver Tienda"
+
+#: woo-aliexpress.php:250
+msgid "Upload products to AliExpress"
+msgstr "Subir esta categoría a AliExpress"
+
+#: woo-aliexpress.php:385
+msgid "API Limited"
+msgstr "API Limitada"
+
+#: woo-aliexpress.php:450
+msgid "AliExpress Information"
+msgstr "Información AlIexpress"
+
+#: woo-aliexpress.php:452
+msgid "Not show again"
+msgstr "No mostrar de nuevo"
+
+#: woo-aliexpress.php:458
+msgid "Your AliExpress session will expire soon, renew the session."
+msgstr "Su sesión en AliExpress expira pronto, inicie sesión de nuevo."
+
+#: woo-aliexpress.php:459 woo-aliexpress.php:467
+msgid "Log-in again"
+msgstr "Iniciar sesión de nuevo"
+
+#: woo-aliexpress.php:466
+msgid "Your AliExpress session has expired, renew the session."
+msgstr "Su sesión en AliExpress ha expirado, inicie sesión de nuevo."
+
+#: woo-aliexpress.php:517
+msgid "AliExpress Data"
+msgstr "Datos de AliExpress"
+
+#: woo-aliexpress.php:518
+msgid "AliExpress Custom Description"
+msgstr "Descripción personalizada para AliExpress"
+
+#: woo-aliexpress.php:524
+msgid "AliExpress Tracking Number"
+msgstr "Nº Seguimiento de AliExpress"
+
+#: woo-aliexpress.php:590
+msgid "AliExpress Option Page"
+msgstr "Página de Configuración de AliExpress"
+
+#: woo-aliexpress.php:592
+msgid "Settings"
+msgstr "Ajustes"
+
+#: woo-aliexpress.php:594
+msgid "Orders AliExpress"
+msgstr "Pedidos AliExpress"
+
+#: woo-aliexpress.php:763 woo-aliexpress.php:815
+msgid "Tracking number required, Not communicated to AliExpress"
+msgstr ""
+"El número de seguimiento es requerido, No ha sido comunicado a AliExpress"
+
+#: woo-aliexpress.php:780 woo-aliexpress.php:855
+#, php-format
+msgid "Order Nº %s Finished, Tracking Number %s"
+msgstr "Pedido Nº %s Finalizado, Número de Seguimiento %s"
+
+#: woo-aliexpress.php:787 woo-aliexpress.php:859
+msgid "The order was already completed"
+msgstr "El pedido ya estaba completado o cerrado en AliExpress"
+
+#: woo-aliexpress.php:794 woo-aliexpress.php:865
+msgid "Error AliExpress"
+msgstr "Error en AliExpress"
+
+#: woo-aliexpress.php:840
+msgid ""
+"The order has not been communicated to AliExpress, the tracking URL is "
+"required."
+msgstr ""
+"El pedido no ha sido comunicado a AliEpress, la URL de seguimiento es "
+"obligatoria."
+
+#: woo-aliexpress.php:1020
+msgid "Not Compatible"
+msgstr "No Compatible"
+
+#: woo-aliexpress.php:1025
+msgid "Uploading..."
+msgstr "Subiendo..."
+
+#: woo-aliexpress.php:1034
+msgid "Update"
+msgstr "Actualizar"
+
+#: woo-aliexpress.php:1036
+msgid "With Explosion Variations"
+msgstr "Con explosión de variaciones"
+
+#: woo-aliexpress.php:1038
+msgid "View"
+msgstr "Ver"
+
+#: woo-aliexpress.php:1039
+msgid "Last Update:"
+msgstr "Últ. Actualización:"
+
+#: woo-aliexpress.php:1042
+msgid "Need update"
+msgstr "Necesita Actualizar"
+
+#: woo-aliexpress.php:1057
+msgid "No set"
+msgstr "No establecido"
+
+#: woo-aliexpress.php:1115
+msgid "AliExpress"
+msgstr "AliExpress"
+
+#: woo-aliexpress.php:1125
+#, php-format
+msgid "Created Vía %s"
+msgstr "Creado vía %s"
+
+#: woo-aliexpress.php:1145
+msgid "Country ISO"
+msgstr "ISO País"
+
+#: woo-aliexpress.php:1146
+msgid "Percent"
+msgstr "Porcentaje"
+
+#: woo-aliexpress.php:1162
+msgid "Save Percent Prices"
+msgstr "Guardar porcentajes de precios"
+
+#: woo-aliexpress.php:1250 woo-aliexpress.php:1287
+msgid "EAN AliExpress"
+msgstr "EAN AliExpress"
+
+#: woo-aliexpress.php:1253 woo-aliexpress.php:1290
+msgid "Enter the EAN variation"
+msgstr "Introduzca el EAN de la variación"
+
+#: woo-aliexpress.php:1267
+msgid "View on AliExpress"
+msgstr "Ver producto en AliExpress"
+
+#~ msgid "Create WooCommerce Product"
+#~ msgstr "Crear producto en WooCommerce"
+
+#~ msgid "Status on AliExpress"
+#~ msgstr "Estado en AliExpress"
+
+#~ msgid ""
+#~ "Status of the product on AliExpress, you can use this option to unpublish "
+#~ "a product, NOTE: AliExpress can permanently remove the product if too "
+#~ "much time passes."
+#~ msgstr ""
+#~ "Estado del producto en AliExpress, puede usar esta opción para "
+#~ "desactivar / activar un producto, NOTA: AliExpress puede borrar "
+#~ "permanentemente un producto si pasa mucho tiempo desactivado."
+
+#~ msgid "Log Error"
+#~ msgstr "Log Errores"
+
+#~ msgid ""
+#~ "You can use the free service <a href=\"https://cron-job.org/en/\" target="
+#~ "\"_blank\">CRON JOBS</a>"
+#~ msgstr ""
+#~ "Puede usar el servicio gratuito <a href=‘https://cron-job.org/en/' "
+#~ "target=‘_blank’>CRON JOBS</a>"
+
+#~ msgid "Select Aliexpress Category"
+#~ msgstr "Selecciona una Categoría de AliExpress"
+
+#~ msgid "Select AliExpress Category"
+#~ msgstr "Selecciona una Categoría de AliExpress"
+
+#, php-format
+#~ msgid "Upload %s products to AliExpress"
+#~ msgstr "Subir los productos de la categoría %s a AliExpress"
+
+#~ msgid "SKU"
+#~ msgstr "SKU"
+
+#~ msgid "WooCommerce Name"
+#~ msgstr "Nombre en WooCommerce"
+
+#~ msgid "WooCommerce Product ID"
+#~ msgstr "ID Producto en WooCommerce"
+
+#~ msgid "Upload Product Categories"
+#~ msgstr "Subir Categorías de Productos"
+
+#~ msgid "Error set AliExpress Category ID:"
+#~ msgstr "Error al Establecer la categoría de AliExpress:"
+
+#~ msgid "Product title is too long, no more than 128 characters allowed"
+#~ msgstr ""
+#~ "El título del producto es demasiado largo, no se permiten más de 128 "
+#~ "caracteres"
+
+#~ msgid ""
+#~ "When a combination has no SKU, create correlative SKU and save product"
+#~ msgstr ""
+#~ "Cuando una variación no tiene SKU, crear SKU correlativo y guardar la "
+#~ "variación"
+
+#~ msgid "Token for Cron"
+#~ msgstr "La cadena aleatoria para el cron"
+
+#~ msgid "URL for products update cron"
+#~ msgstr "URL del cron para actualizar productos periódicamente"
+
+#~ msgid "Support"
+#~ msgstr "Soporte"
+
+#~ msgid "If you need help"
+#~ msgstr "Necesitas Ayuda"
+
+#~ msgid "Authorize with your AliExpress acount"
+#~ msgstr "Autorizar con su cuenta de AliExpress"
+
+#~ msgid ""
+#~ "No license?, <a href=\"%s\" target=\"_blank\">click here for more "
+#~ "information</a>."
+#~ msgstr ""
+#~ "¿No tiene licencia?, <a href=\"%s\" target=\"_blank\">haga click aquí "
+#~ "para más información</a>."
+
+#~ msgid "Authorize"
+#~ msgstr "Autorizar"
+
+#~ msgid ""
+#~ "You previously must have a seller account on AliExpress, <a href=\"%s\" "
+#~ "target=\"_blank\">click here to create an account</a>"
+#~ msgstr ""
+#~ "Usted como vendedor deberá tener previamente una cuenta de vendedor en "
+#~ "AliExpress, <a href=\"%s\" target=\"_blank\">click aquí para crear una "
+#~ "cuenta</a>"
+
+#~ msgid "Renew AliExpress Session"
+#~ msgstr "Renovar Sesión en AliExpress"
+
+#~ msgid "Renew Session"
+#~ msgstr "Renovar Sesión"
+
+#~ msgid "View details"
+#~ msgstr "Ver Detalles"
+
+#~ msgid "More information about %s"
+#~ msgstr "Mas información sobre %s"
+
+#~ msgid "Check for updates"
+#~ msgstr "Comprobar Actualizaciones"
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "Estado de la actualización desconocido \"%s\""
+
+#~ msgid "There is no changelog available."
+#~ msgstr "El registro de cambios no está disponible."
+
+#~ msgid "License"
+#~ msgstr "Licencia"
+
+#~ msgid "Set Offline"
+#~ msgstr "Establecer como despublicado"
+
+#~ msgid "No shipping templates availables"
+#~ msgstr "No se han encontrado plantilla de envío"
+
+#~ msgid "The product ID: <a href=\"%s\">"
+#~ msgstr "El producto ID: <a href=\"%s\">"
+
+#~ msgid "Official Plugin - Export your products to AliExpress"
+#~ msgstr ""
+#~ "Plugin Oficial de AliExpress para WooCommerce - Vende tus productos en "
+#~ "AliExpress"
+
+#~ msgid "Carriers"
+#~ msgstr "Transportistas"
+
+#~ msgid "<h2>Send %s products to AliExpress</h2>"
+#~ msgstr "<h2>Enviar %s productos a AliExpress</h2>"

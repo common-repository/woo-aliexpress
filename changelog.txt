@@ -1,0 +1,64 @@
+
+1.2.5
+- Update JOB system
+- Minor bug fixes
+
+1.2.0
+- Minor fixes
+- Check AliExpress Account
+- Fix Category default of Products
+- Product title warning
+- Fix Alert modal error
+
+1.1.9
+- Add tracking website for others carriers
+- Fix filters links WooCommerce Products.
+- Minor Fixes
+
+1.1.7
+- Fix language categories
+
+1.1.5
+- Fix
+- Links to docs online
+
+1.1.0
+- Revision
+
+1.0.8
+- Security revision
+
+1.0.7
+- Fix product upload with custom attributes
+
+1.0.6
+- Fix minor errors
+
+1.0.5
+- Fix attributes mapping
+- Error messages translated
+- Auto-check jobs status
+- Partial Italian Translate
+- Product custom description only for AliExpress
+
+1.0.4 
+- Improved responses to actions
+- Waiting alerts for events
+- Improved job management
+- Improved security
+- Added access to Jobs to submenu
+- Missing translations
+
+1.0.3
+- Fix Cron Orders
+
+1.0.2
+- Fix Multiple orders
+
+1.0.1
+- Translation Spanish and English for pop-up windows
+- Solved small errors
+- Improved Feature Mapping
+
+1.0.0
+- Start of first release.

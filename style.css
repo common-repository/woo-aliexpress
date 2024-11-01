@@ -1,0 +1,508 @@
+.categories_list_sync ul li ul {
+    padding-left: 2%;
+    margin-top: 7px;
+}
+span.aliexpress_category {
+    float: right;
+}
+span.aliexpress_category button.button_category_aliexpress {
+    display: none;
+    border: 0;
+    background: #2f8840;
+    color: #FFFF;
+    border-radius: 4px;
+}
+.aliexpress input[type='number'], .aliexpress select {
+    width: 144px;
+}
+.aliexpress .docs_button {
+    position: absolute;
+    right: 20px;
+    margin-top: -70px;
+    background: #257d9a;
+    border-radius: 100px;
+    padding: 10px;
+    color: #FFF;
+    text-decoration: none;
+}
+.store_data {
+    border-radius: 4px;
+    background: #e62e04;
+    padding: 10px;
+    border-bottom: 5px solid #a1290e;
+    width: fit-content;
+    color: #FFF;
+    max-width: 400px;
+}
+
+.store_data .name {
+    font-size: 20px;
+}
+
+.store_data .name .country {
+    font-size: 11px;
+}
+
+.store_data a {
+    background: #FFF;
+    color: #333;
+    padding: 5px;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.aliexpress p.description {
+    max-width: 370px;
+}
+/* Attributes */
+.attributes_list_sync ul li ul {
+    padding-left: 2%;
+    margin-top: 7px;
+}
+span.aliexpress_attribute {
+    float: right;
+}
+span.aliexpress_attribute button.button_attribute_aliexpress {
+    display: none;
+    border: 0;
+    background: #2f8840;
+    color: #FFFF;
+    border-radius: 4px;
+}
+select.aew_check_this_values.error {
+    border: 1px solid red;
+    background: rgba(255, 0, 0, 0.2);
+}
+button.aew_publish, button.aew_publish_update, button.aew_button {
+    cursor: pointer;
+    background: #ff9103;
+    border: 0;
+    padding: 5px;
+    border-radius: 5px;
+    color: #FFF;
+}
+button.aew_view {
+    background: #1daf37;
+    border: 0;
+    padding: 5px;
+    border-radius: 5px;
+    color: #FFF;
+}
+span.need_update {
+    background: #ab3c3c;
+    padding: 2px 5px;
+    font-size: 10px;
+    border-radius: 10px;
+    color: #FFF;
+    margin-left: 6px;
+}
+a.aew_view {
+    margin-left: 10px;
+    background: #CCC;
+    padding: 5px 33px;
+    color: #FFF;
+    border-radius: 6px;
+}
+a.link_cat_mapping {
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    display: block;
+}
+table.table_attributes tr:nth-child(2n+1) td {
+    background: #dcdcdc;
+}
+
+table.table_attributes tr td {
+    padding: 6px;
+}
+table.table_attributes tr.attr_name td {
+    background:#333;
+    color: #FFF;
+}
+/* table.table_attributes tr.term_name td {
+
+} */
+
+table.aew_table tr:nth-child(2n+1) td {
+    background: #dcdcdc;
+}
+
+table.aew_table tr td {
+    padding: 10px;
+}
+table.aew_table tr.attr_name td {
+    background:#333;
+    color: #FFF;
+}
+table.aew_table tr:first-child td {
+    background:#333;
+    color:#FFF;
+}
+
+
+span.attr_type {
+    font-size: 10px;
+    color: #CCC;
+}
+
+/***Categorias*/
+.jstree-default>.jstree-container-ul>.jstree-node {
+    text-align: left;
+}
+i.jstree-icon.jstree-themeicon {
+    display: none;
+}
+
+.removeCategoryAliExpress {
+    cursor: pointer;
+}
+
+mark.order-status.status-ae-wait-confirm.tips,
+mark.order-status.status-ae-proc-pay.tips {
+    background: #f7802a;
+    color: #FFF;
+}
+mark.order-status.status-ae-finish.tips,
+mark.order-status.status-ae-part-deli.tips {
+    background: #0fa022;
+    color: #FFF;
+}
+mark.order-status.status-ae-wait-pay.tips {
+    background: #8f912e;
+    color: #FFF;
+}
+mark.order-status.status-ae-wait-ship.tips {
+    background: #04a77e;
+    color: #FFF;
+}
+mark.order-status.status-ae-process-pay.tips {
+    background: #7cb96f;
+    color: #333;
+}
+mark.order-status.status-ae-cancel.tips,
+mark.order-status.status-ae-frozen.tips,
+mark.order-status.status-ae-issue.tips {
+    background: #8d2626;
+    color: #FFF;
+}
+mark.order-status.status-ae-risk-control.tips {
+    background: #141414;
+    color: #FFF;
+}
+
+/*Table Order*/
+.aew_order_table tr td {
+    padding: 10px;
+}
+.aew_order_table tr:first-child td {
+    background: #CCC !important;
+    color:#333;
+}
+.aew_order_table {
+    margin-top: 14px;
+}
+.aew_order_table tr:nth-child(2n+1) td {
+    background:#dedede;
+}
+
+
+
+.swal2-content {
+    max-height: 450px;
+    overflow: auto;
+}
+
+
+span.created_via {
+    float: right;
+    font-size: 12px;
+    color: #de8a08;
+}
+
+/** pagination */
+.pagination_aliexpress a {
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    border: 1px solid #CCC;
+    margin: 10px;
+    display: inline-block;
+}
+.pagination_aliexpress a.active, .pagination_aliexpress a:hover {
+    background:#333;
+    color:#FFF;
+}
+div.wrap.aliexpress button.ae_button, div.wrap.aliexpress input[type="submit"].ae_button {
+    background: #4e905a;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    color: #FFF;
+}
+div.wrap.aliexpress button.authorize {
+    width: 300px;
+}
+input.endForm:disabled {
+    background: rgba(204, 204, 204, 0.4) !important;
+}
+
+input.endForm {
+    margin-top: 25px;
+}
+
+.text_alias_term {
+    display: none;
+}
+
+.params_required .feature {
+    border: 1px solid #CCC;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 10px;
+    width: calc(20% - 32px);
+    margin-top: 10px;
+    min-height: 80px;
+}
+.params_required .feature select, .params_required .feature input {
+    width: 100%;
+}
+
+.params_required {
+    margin: 10px 0px;
+    display: block;
+    position: relative;
+}
+
+.params_required:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+tr.job-error td {
+    background: #de9595 !important;
+}
+
+tr.checkJob.job-yes td {
+    background: #95de9c !important;
+}
+
+tr.checkJob.job-processing td {
+    background: #deda95 !important;
+}
+div#aew_number_shipping_metabox label {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+div#aew_number_shipping_metabox label input[type='text'], div#aew_number_shipping_metabox label select {
+    width: 100%;
+    margin-top: 5px;
+}
+
+div#aew_number_shipping_metabox label span {
+    color: #333;
+    font-size: 13px;
+}
+span.minidate {
+    font-size: 10px;
+}
+
+tr.line_category.category_child td:first-child {
+    padding-left: 50px;
+}
+td.medidas input {
+    width: 55px;
+}
+span.min-text {
+    display: block;
+    font-size: 11px;
+    color: #CCC;
+}
+
+a.nav-tab.link-content {
+    margin: 10px 0;
+    border-bottom: 1px solid #CCC;
+}
+span.explicationAliExpressUseValue {
+    font-size: 12px;
+    margin-left: 10px;
+    position: absolute;
+}
+a.link_cat_mapping {
+    border: 1px solid #717171;
+    padding: 10px;
+    background: #737373;
+    color: #FFF;
+    display: block;
+    margin-top: 10px;
+}
+
+/** loading */
+.darkAlert {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0e0e0e80;
+    z-index: 99999;
+}
+.awePreloader {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    min-width: 130px;
+    max-width: 300px;
+    min-height: 120px;
+    max-height: 300px;
+    background: #FFF;
+    z-index: 99999;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+a.viewOrder {
+    background: #35a547;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    color: #FFF;
+    display: block;
+    width: fit-content;
+    text-decoration: none;
+}
+.awePreloader img {
+    width: 100%;
+}
+td.aew_product_sync.column-aew_product_sync {
+    width: 180px !important;
+}
+
+th#aew_product_sync {
+    width: 180px !important;
+}
+
+/**
+Toogle Check
+**/
+.toggle {
+	position: relative;
+	appearance:none;
+    -moz-appearance:none; /* Firefox */
+    -webkit-appearance:none; /* Safari and Chrome */
+	width: 60px;
+	height: 30px;
+	border-radius: 30px;
+	background-color: #FFF;
+	box-shadow: 0px 0px 5px #666;
+	transition: all 0.3s linear;
+	outline: none;
+}
+.toggle:before {
+	position: absolute;
+	background-color: #FFF;
+	content: "";
+	width: 30px;
+	height: 30px;
+	border-radius: 500px;
+	left: 0;
+	box-shadow: 0px 0px 5px #666;
+	transition: all 0.2s linear;
+}
+.toggle:checked {
+	background-color: #71C639;
+}
+.toggle:checked:before {
+	left: 30px !important;
+}
+
+/***
+login*/
+.block_need_aliexpress_account {
+    display: block;
+    background: #FFF;
+    position: relative;
+    margin: 20px 0px;
+    box-shadow: 1px 1px 10px #d6d6d6;
+    border-left: 4px solid #e62e04;
+}
+
+.block_need_aliexpress_account .row {
+    display: inline-flex;
+    width: 50%;
+}
+
+.block_need_aliexpress_account .row img {
+    margin-right: 10px;
+    width: 100px;
+}
+.block_need_aliexpress_account .row .col {
+    position: relative;
+    margin: auto;
+}
+input[type="email"].email_ae {
+    width: 300px;
+    padding: 10px;
+}
+.tooltip_ae {
+    cursor: pointer;
+    background: #9a9a9a;
+    color: #fff;
+    padding: 4px;
+    height: 9px;
+    width: 9px;
+    line-height: 9px;
+    float: left;
+    text-align: center;
+    border-radius: 500px;
+    margin: 0px 10px;
+}
+.wrap.aliexpress a.nav-tab {
+    border-radius: 10px 10px 0px 0px;
+}
+div.tooltipster-base {
+    max-width: 300px;
+    height: auto !important;
+}
+
+.wrap.aliexpress button:active, .wrap.aliexpress input[type='submit']:focus {
+    background-color: #CCC !important;
+    color: #000 !important;
+}
+a.boton_actions_products {
+    display: block;
+    background: #333;
+    padding: 5px;
+    color: #FFF;
+    text-decoration: none;
+    max-width: 200px;
+    margin-bottom: 10px;
+}
+
+.wrap.aliexpress ul.pagination {
+    display: inline-flex;
+}
+
+.wrap.aliexpress ul.pagination li a {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color: #333;
+    border-radius: 100px;
+}
+
+.wrap.aliexpress ul.pagination li:hover a,
+.wrap.aliexpress ul.pagination li a.active {
+    background: #3333334a;
+    color: #FFF;
+}
